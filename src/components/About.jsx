@@ -18,7 +18,7 @@ const About = () => {
             <div className='max-w-[1240px] mx-auto grid md:grid-cols-2 sm:mt-4'>            
                 <img src={Profile} 
                 alt="who.svg" 
-                className='[500px] mx-auto w-[80%] h-[90%] rounded shadow-md shadow-gray-600' 
+                className='[500px] mx-auto w-[80%] h-full rounded shadow-md shadow-gray-600' 
                 />    
                 <div className='flex flex-col justify-center'>                    
                     <p className='pt-2 mt-2'>
